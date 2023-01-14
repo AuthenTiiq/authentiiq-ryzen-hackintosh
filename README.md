@@ -7,7 +7,7 @@ Mon dossier EFI fonctionne sur MacOS Monterey, il fonctionne aussi sur Ventura m
  
  **Note**
  
- Opencore version : 0.8.7
+ Opencore version : 0.8.8
  
  *Ne fonctionne pas :*
  - La veille 
