@@ -229,20 +229,18 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
-			<dict>
-				<key>layout-id</key>
-				<data>AQAAAA==</data>
-			</dict>
 			<key>PciRoot(0x0)/Pci(0x1,0x3)/Pci(0x0,0x2)/Pci(0x4,0x0)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>built-in</key>
 				<data>AQ==</data>
 			</dict>
+			<key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
+			<dict>
+				<key>layout-id</key>
+				<data>AQAAAA==</data>
+			</dict>
 			<key>PciRoot(0x0)/Pci(0x3,0x1)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
 			<dict>
-				<key>CFG,CFG_USE_AGDC</key>
-				<data>AA==</data>
 				<key>@0,name</key>
 				<string>ATY,Deepbay</string>
 				<key>@1,name</key>
@@ -251,6 +249,8 @@
 				<string>ATY,Deepbay</string>
 				<key>@3,name</key>
 				<string>ATY,Deepbay</string>
+				<key>CFG,CFG_USE_AGDC</key>
+				<data>AA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -1412,6 +1412,10 @@
 			</dict>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
+				<key>revcpu</key>
+				<integer>1</integer>
+				<key>revcpuname</key>
+				<string>AMD Ryzen 5 2600 Six-Core</string>
 				<key>rtc-blacklist</key>
 				<data></data>
 			</dict>
@@ -1442,6 +1446,8 @@
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<array>
 				<string>rtc-blacklist</string>
+				<string>revcpu</string>
+				<string>revcpuname</string>
 			</array>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<array>
@@ -1497,9 +1503,9 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
-			<integer>0</integer>
+			<integer>1537</integer>
 			<key>ROM</key>
-			<data></data>
+			<data> </data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
