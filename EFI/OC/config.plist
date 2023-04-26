@@ -1507,7 +1507,7 @@
 			<key>ProcessorType</key>
 			<integer>1537</integer>
 			<key>ROM</key>
-			<data> </data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
