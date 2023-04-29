@@ -217,8 +217,6 @@
 			<true/>
 			<key>ResizeAppleGpuBars</key>
 			<integer>-1</integer>
-			<key>ResizeUsePciRbIo</key>
-			<false/>
 			<key>SetupVirtualMap</key>
 			<true/>
 			<key>SignalAppleOS</key>
