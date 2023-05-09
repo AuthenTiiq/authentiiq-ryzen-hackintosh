@@ -10,7 +10,6 @@ Mon dossier EFI fonctionne sur MacOS Monterey, il fonctionne aussi sur Ventura m
  Opencore version : 0.9.2
  
  *Ne fonctionne pas :*
- - La veille 
  - Aidrop, sidecar, ... seule Handoff, Universal Clipboard and AirPlay fonctionne à cause de itlwm
  
 Configuration :
