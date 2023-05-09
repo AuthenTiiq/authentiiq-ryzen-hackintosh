@@ -10,7 +10,11 @@ Mon dossier EFI fonctionne sur MacOS Monterey, il fonctionne aussi sur Ventura m
  Opencore version : 0.9.2
  
  *Ne fonctionne pas :*
- - Aidrop, sidecar, ... seule Handoff, Universal Clipboard and AirPlay fonctionne à cause de itlwm
+ - AirDrop
+ - Sidecar
+ - Universal Control
+ - Apple Watch Unlock
+ - DRM (fonctionne sur navigateur Chromium ou Firefox)
  
 Configuration :
 ```
