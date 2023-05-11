@@ -1533,7 +1533,7 @@
 				<key>revcpu</key>
 				<integer>1</integer>
 				<key>revcpuname</key>
-				<string>AMD Ryzen 5 2600 Six-Core</string>
+				<string>AMD Ryzen 5 2600 Six cœurs</string>
 				<key>rtc-blacklist</key>
 				<data></data>
 			</dict>
