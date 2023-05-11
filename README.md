@@ -5,7 +5,7 @@ Mon dossier EFI fonctionne sur MacOS Monterey, il fonctionne aussi sur Ventura m
  
  Si vous souhaitez utiliser cet EFI, penser à mettre à jour le SMBIOS dans le config.plist, sinon ça ne fonctionnera pas !
  
- **AirportItlwm est désactivé par défaut au profit de itlwm (utilisable avec l'app HeliPort) Vous pouvez désactiver/activer Itlwm au profit de Airportitlwm si vous le souhaitez mais celui-ci ne fonctionne pas correctement sur Ventura.
+ **AirportItlwm est désactivé par défaut au profit de itlwm (utilisable avec l'app HeliPort) Vous pouvez désactiver/activer Itlwm au profit de Airportitlwm si vous le souhaitez mais celui-ci ne fonctionne pas correctement sur Ventura.**
  
  **Note**
  
