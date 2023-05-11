@@ -416,7 +416,7 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>AMDRyzenCPUPowerManagement.kext</string>
+					<string>AMDRyzenCPUPowerManagement.kext</string>
 				<key>Comment</key>
 				<string>AMDRyzenCPUPowerManagement.kext</string>
 				<key>Enabled</key>
@@ -1533,7 +1533,7 @@
 				<key>revcpu</key>
 				<integer>1</integer>
 				<key>revcpuname</key>
-				<string>AMD Ryzen 5 2600 Six-Core</string>
+				<string>AMD Ryzen 5 2600 6 cœurs</string>
 				<key>rtc-blacklist</key>
 				<data></data>
 			</dict>
