@@ -16,7 +16,6 @@ Mon dossier EFI fonctionne sur MacOS Monterey, il fonctionne aussi sur Ventura m
  - Sidecar
  - Universal Control
  - Apple Watch Unlock
- - DRM (fonctionne sur navigateur Chromium ou Firefox)
  
 Configuration :
 ```
