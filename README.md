@@ -4,8 +4,8 @@
 Mon dossier EFI fonctionne sur MacOS Monterey, Venture et Sonoma, il fonctionne aussi sur Ventura mais le WiFi ne fonctionne pas pour le moment.
  
  Si vous souhaitez utiliser cet EFI, penser à mettre à jour le SMBIOS dans le config.plist, sinon ça ne fonctionnera pas !
- 
- **AirportItlwm est désactivé par défaut au profit de itlwm (utilisable avec l'app HeliPort) Vous pouvez désactiver/activer Itlwm au profit de Airportitlwm si vous le souhaitez mais celui-ci ne fonctionne pas correctement sur Ventura.**
+
+ Airportitlwm est activé par défaut sur Ventura, puis désactivé au profit de itlwm sur Sonoma
  
  **Note**
  
