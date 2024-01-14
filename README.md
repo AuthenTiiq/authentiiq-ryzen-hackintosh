@@ -1,7 +1,7 @@
 # authentiiq-hackintosh-ryzen
  AuthenTiiq Hackintosh sur Ryzen 5 2600 + AMD RX 6600
  
-Mon dossier EFI fonctionne sur MacOS Monterey, Venture et Sonoma, il fonctionne aussi sur Ventura mais le WiFi ne fonctionne pas pour le moment.
+Mon dossier EFI fonctionne sur MacOS Monterey, Ventura et Sonoma, il fonctionne aussi sur Ventura mais le WiFi ne fonctionne pas pour le moment.
  
  Si vous souhaitez utiliser cet EFI, penser à mettre à jour le SMBIOS dans le config.plist, sinon ça ne fonctionnera pas !
 
