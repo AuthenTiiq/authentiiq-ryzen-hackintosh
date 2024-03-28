@@ -9,8 +9,8 @@ Mon dossier EFI fonctionne sur MacOS Monterey, Venture et Sonoma, il fonctionne 
  
  **Note**
  
- Opencore version : 0.9.8
- MacOS supporté : Monterey, Ventura, Sonoma (en bêta)
+ Opencore version : 0.9.9
+ MacOS supporté : Monterey, Ventura, Sonoma 
  
  *Ne fonctionne pas :*
  - AirDrop
